@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Maya Reynolds — Therapy Website
 
-## Getting Started
+A responsive therapist portfolio and practice website built with Next.js and Tailwind CSS.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A calm, editorial-style website for Dr. Maya Reynolds, a fictional licensed clinical psychologist based in Santa Monica, California.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The website presents her therapy approach, areas of focus, biography, office environment, FAQs, and contact call-to-action.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Responsive desktop, tablet, and mobile layouts
+- Therapist profile and biography
+- Areas of focus
+- Therapy approach section
+- Office gallery
+- Interactive FAQ accordion
+- Responsive navigation
+- Call-to-action sections
+- Accessible semantic structure
+- SEO metadata
+- Optimized images using Next.js Image
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Next/Image
+- Git
+- GitHub
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```text
+app/
+components/
+public/
+  images/
